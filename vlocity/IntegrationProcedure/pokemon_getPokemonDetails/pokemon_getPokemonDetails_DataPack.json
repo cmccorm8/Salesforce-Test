@@ -1,0 +1,25 @@
+{
+    "CustomJavaScript": "{}",
+    "ElementTypeComponentMapping": "{\"ElementTypeToHTMLTemplateList\":[]}",
+    "IsIntegrationProcedure": true,
+    "IsMetadataCacheDisabled": false,
+    "IsOmniScriptEmbeddable": false,
+    "IsTestProcedure": false,
+    "IsWebCompEnabled": false,
+    "Language": "Procedure",
+    "Name": "Pokemon Get Pokemon Details",
+    "OmniProcessElement": [
+        "pokemon_getPokemonDetails_Element_GetPokemonByName.json",
+        "pokemon_getPokemonDetails_Element_DRPokemonTransform.json",
+        "pokemon_getPokemonDetails_Element_ResponseAction.json"
+    ],
+    "OmniProcessKey": "pokemon_getPokemonDetails",
+    "OmniProcessType": "Integration Procedure",
+    "PropertySetConfig": "pokemon_getPokemonDetails_PropertySetConfig.json",
+    "SubType": "getPokemonDetails",
+    "Type": "pokemon",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "OmniProcess",
+    "VlocityRecordSourceKey": "OmniProcess/pokemon/getPokemonDetails/Procedure",
+    "WebComponentKey": "06aaca5d-46f8-9dcf-1a4f-0590cd2018ea"
+}
